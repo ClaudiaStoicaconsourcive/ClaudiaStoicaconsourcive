@@ -4,7 +4,7 @@
 - 💞️ I’m looking to broaden my horizon and create great connections
 - 📫 How to reach me: here on github
 
-i am lloking forward to meet you! 😃
+i am looking forward to meet you! 😃
 
 <!---
 ClaudiaStoicaconsourcive/ClaudiaStoicaconsourcive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
