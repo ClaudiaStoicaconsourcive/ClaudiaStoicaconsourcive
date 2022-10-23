@@ -1,8 +1,10 @@
 - 👋 Hi, my Name is Claudia Stoica and I am an HR & Recruiting Assistant at concourcive in Vienna
 - 👀 I’m interested in meeting new people and I am hoping to find talents for our IT projects
-- 🌱 I’m currently learning all the different types of IT roles and their specific technical terminologies 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning all the different types of IT roles and their specific technical terminologies in order to better understand the people that I am talking to 😊
+- 💞️ I’m looking to broaden my horizon and create great connections
+- 📫 How to reach me: here on github
+
+i am lloking forward to meet you! 😃
 
 <!---
 ClaudiaStoicaconsourcive/ClaudiaStoicaconsourcive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
