@@ -7,7 +7,7 @@
 https://www.consourcive.at/ or apply directly on https://www.consourcive.at/jobs/
 https://www.linkedin.com/company/consourcive-gmbh/
 
-I am looking forward to meet you! 😃
+I am looking forward to meeting you! 😃
 
 <!---
 ClaudiaStoicaconsourcive/ClaudiaStoicaconsourcive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
